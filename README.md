@@ -1,6 +1,6 @@
 # Amazon_Sales_Data_Analysis
 
-The data has been extracted online using API. The data has seperate recods of Amazon sales (2019) month-wise. 
+The data has been extracted online using API. The data has separate records of Amazon sales (2019) month-wise. 
 
 The data was first stored in My SQL Workbench and then it was connected to python by creating a pipeline between SQL and Python for EDA.
 

@@ -2,7 +2,7 @@
 
 The data has been extracted online using API. The data has separate records of Amazon sales (2019) month-wise. 
 
-The data was first stored in My SQL Workbench and then it was connected to python by creating a pipeline between SQL and Python for EDA.
+The data was first stored in My SQL Workbench and then it was fetched into python by creating a pipeline between SQL and Python for EDA.
 
 The data was then processed and cleaned by performing EDA, Feature Engineering, Feature Selection and Data Visualization, with the main aim to get useful insights from the data in hand.
 

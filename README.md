@@ -1,4 +1,4 @@
-# Amazon_Sales_Data
+# Amazon_Sales_Data_Analysis
 
 The data has been extracted online using API. The data has seperate recods of Amazon sales (2019) month-wise. 
 
@@ -12,3 +12,5 @@ All the Graphical Visualisations have been shared, along with the excel file (AM
 
 
 Data- Only the sales data of January month is added (Sales_January_2019). 
+
+Code File- Private
